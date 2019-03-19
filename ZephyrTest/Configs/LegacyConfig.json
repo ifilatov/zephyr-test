@@ -1,0 +1,22 @@
+{
+  "Eforms": {
+    "Url": "http://intranet.cpggpc.ca/html/branches/resources/cmcd/forms-e.shtml",
+    "Username": "POS_APP",
+    "Password": "POS-QA"
+  },
+  "FindPostOffice": {
+    "Url": "https://www.canadapost.ca/cpotools/apps/fpo/personal/findPostOffice",
+    "Username": "POS_APP",
+    "Password": "POS-QA"
+  },
+  "TrackAPackage": {
+    "Url": "https://nonprod-soa-gw-01.cpggpc.ca/staging1/track/json/package/",
+    "Username": "POS_APP",
+    "Password": "POS-QA"
+  },
+  "AddressingService": {
+    "Url": "https://nonprod-soa-gw-01.cpggpc.ca/staging1/AddressingWebService/V2.2/Service.svc?wsdl",
+    "Username": "POS_APP",
+    "Password": "POS-QA"
+  }
+}

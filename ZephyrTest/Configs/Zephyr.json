@@ -1,0 +1,24 @@
+﻿{
+    "Urls": {
+        "BaseUrl": "https://devtools.cpggpc.ca/jira",
+        //Cycle
+        "TestCycleUrl": "/rest/zephyr/latest/cycle",
+        //Execution
+        "ExecutionsUrl": "/rest/zephyr/latest/zql/executeSearch",
+        "ExecutionUrl": "/rest/zephyr/latest/execution",
+        //Step
+        "StepUrl": "/rest/zephyr/latest/teststep",
+        "StepResultUrl": "/rest/zephyr/latest/stepResult",
+        "AttachFileToStepUrl": "/rest/zephyr/latest/attachment",
+        //Issue
+        "CreateJiraIssueUrl": "/rest/api/latest/issue",
+        //Versions
+        "VersionsUrl": "/rest/zephyr/latest/util/versionBoard-list"
+    },
+    "Ids": {
+        "ProjectId": "16701",
+        "TestFilterId": "30243"
+    },
+	"Uname": "JiraAutomation",
+	"Pass": "qDFkWfx5"
+}

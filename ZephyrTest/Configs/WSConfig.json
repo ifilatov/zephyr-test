@@ -1,0 +1,14 @@
+{
+    "Urls": {
+        "Authorization": "https://authentication-svc-sandbox.rtm-sandbox.kuy.io/api",
+        "Shelf": "https://shelf-svc-sandbox.rtm-sandbox.kuy.io/api",
+        "Outlet": "https://outlet-business-svc-sandbox.rtm-sandbox.kuy.io/api"
+    },
+    "Authorization": {
+        "ClientId": "RTM",
+        "RcNumber": "123456",
+        "WicketId": "fe6661b5-328a-4b2d-981e-d50565493a76",
+        "Username": "rtmuser",
+        "Password": "RtmUs3r1!"
+    }
+}

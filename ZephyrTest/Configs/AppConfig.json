@@ -1,0 +1,24 @@
+﻿{
+    "Appium": {
+        "Url":  "http://127.0.0.1"
+    },
+    "Windows": {
+        "ApplicationId": "C:\\TrackPackage\\TrackPackage.exe"
+    },
+    "Android": {
+        "DeviceName": "TC56CJ",
+        "Udid": "17161522505314",
+        "PlatformName": "Android",
+        "PlatformVersion": "7.1.2",
+        "AppPackage": "com.symbol.datawedge",
+        "AppActivity": "com.symbol.datawedge.DWDemoActivity"
+    },
+    "Android_Barcode": {
+        "DeviceName": "Barcode",
+        "Udid": "ZY224D4KXG",
+        "PlatformName": "Android",
+        "PlatformVersion": "7.1.2",
+        "AppPackage": "de.cryptobitch.muelli.barcodegen",
+        "AppActivity": ".MainActivity"
+    }
+}
